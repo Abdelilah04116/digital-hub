@@ -1,0 +1,179 @@
+{
+    "Common": {
+        "title": "Digital Subs",
+        "home": "Accueil",
+        "plans": "Offres",
+        "support": "Support",
+        "blog": "Blog",
+        "contact": "Contact",
+        "login": "Connexion",
+        "logout": "Déconnexion",
+        "whatsapp": "Contact WhatsApp",
+        "seeOffers": "Voir les offres",
+        "from": "Dès",
+        "order": "Commander",
+        "buy": "Acheter",
+        "readMore": "Lire la suite",
+        "loading": "Chargement..."
+    },
+    "Hero": {
+        "title": "Abonnements Digitaux Officiels au Maroc",
+        "subtitle": "Accédez à vos services de streaming, IPTV, VPN et cartes cadeaux préférés de manière 100% légale et sécurisée.",
+        "cta": "Explorer Nos Offres",
+        "badge": "100% Légit & Sécurisé au Maroc",
+        "speed": "Livraison Rapide",
+        "speedDesc": "Activation en moins de 15 min",
+        "payment": "Paiement 100% Sûr",
+        "paymentDesc": "Via Stripe & CMI sécurisé",
+        "support": "Support Client",
+        "supportDesc": "Disponible 7j/7 sur WhatsApp"
+    },
+    "Features": {
+        "heading": "Pourquoi choisir {title} ?",
+        "subheading": "Nous redéfinissons l'accès au divertissement numérique au Maroc avec un service premium et sécurisé.",
+        "speed": "Livraison Instantanée",
+        "speedDesc": "Recevez vos codes d'activation par email immédiatement après paiement.",
+        "secure": "Paiement Sécurisé",
+        "secureDesc": "Nous utilisons Stripe pour garantir la sécurité de toutes vos transactions.",
+        "support": "Support 7j/7",
+        "supportDesc": "Notre équipe est disponible sur WhatsApp pour vous aider à tout moment.",
+        "multi": "Multi-support",
+        "multiDesc": "Utilisez vos abonnements sur n'importe quel support : Smart TV, Mobile, Tablette.",
+        "zero": "Zéro coupure",
+        "zeroDesc": "Nous ne proposons que des abonnements officiels garantis sans interruption.",
+        "local": "Paiement Local",
+        "localDesc": "Cartes bancaires marocaines (CMI) acceptées via Stripe Checkout.",
+        "statsClients": "Clients Satisfaits",
+        "statsSubs": "Abonnements Livrés",
+        "statsCountries": "Pays Couverts",
+        "statsSupport": "Heures de Support"
+    },
+    "Plans": {
+        "title": "Toutes nos offres",
+        "subtitle": "Choisissez l'abonnement qui vous convient parmi notre catalogue officiel.",
+        "all": "Tout"
+    },
+    "Trending": {
+        "title": "Offres du moment 🔥",
+        "subtitle": "Les abonnements les plus populaires cette semaine. Profitez de nos tarifs préférentiels.",
+        "bestSeller": "Best Seller",
+        "stable": "Activation 100% stable",
+        "priority": "Support prioritaire",
+        "guarantee": "Garantie satisfaction"
+    },
+    "Product": {
+        "official": "Garantie 100% Officiel",
+        "instant": "Livraison Immédiate",
+        "chooseDuration": "Choisir une durée",
+        "proceed": "Passer à la commande",
+        "buyWhatsApp": "Acheter via WhatsApp",
+        "included": "Inclus dans votre offre :",
+        "guaranteedAccess": "Accès officiel garanti",
+        "techSupport": "Assistance technique 7j/7",
+        "clearInstructions": "Instructions d'activation claires",
+        "secureStripe": "Paiement sécurisé par Stripe",
+        "checkoutError": "Erreur lors de la création de la session de paiement.",
+        "errorOccurred": "Une erreur est survenue.",
+        "waGreeting": "Bonjour, je souhaite acheter"
+    },
+    "Footer": {
+        "description": "Votre partenaire de confiance pour tous vos besoins en abonnements digitaux officiels au Maroc. Sécurité, rapidité et support dévoué.",
+        "rights": "Tous droits réservés.",
+        "products": "Produits",
+        "streaming": "Abonnements Streaming",
+        "iptv": "IPTV Premium",
+        "vpn": "VPN & Sécurité",
+        "giftCards": "Cartes Cadeaux",
+        "legal": "Légal",
+        "terms": "Conditions de Vente",
+        "privacy": "Confidentialité",
+        "refund": "Remboursement",
+        "help": "Aide & FAQ",
+        "track": "Suivre ma commande"
+    },
+    "Support": {
+        "title": "Centre de Support",
+        "subtitle": "Une question ? Un problème d'activation ? Notre équipe est prête à vous aider 7j/7.",
+        "whatsappResponse": "Réponse instantanée",
+        "contactUs": "Contactez-nous",
+        "availability": "Disponibilité",
+        "monSun": "Lundi - Dimanche",
+        "emailResponse": "Réponse sous 24h",
+        "openTicket": "Ouvrir un ticket",
+        "fullName": "Nom complet",
+        "email": "Email",
+        "subject": "Sujet",
+        "activationProblem": "Problème d'activation",
+        "preSales": "Question avant achat",
+        "paymentNotReceived": "Paiement non reçu",
+        "other": "Autre",
+        "message": "Message",
+        "placeholderMessage": "Comment pouvons-nous vous aider ?",
+        "send": "Envoyer ma demande",
+        "quickHelp": "Aide rapide",
+        "helpSubtitle": "Consultez nos guides pour résoudre vos problèmes en quelques secondes.",
+        "activationGuide": "Comment activer mon code ?",
+        "changePlan": "Puis-je changer d'offre ?",
+        "guarantees": "Quelles sont les garanties ?",
+        "lostPassword": "Mot de passe perdu"
+    },
+    "Login": {
+        "title": "Espace Client",
+        "subtitle": "Connectez-vous pour accéder à vos abonnements et factures.",
+        "google": "Continuer avec Google",
+        "email": "Email",
+        "orEmail": "Ou via email",
+        "magicLink": "Recevoir un lien magique",
+        "termsAccept": "En vous connectant, vous acceptez nos <terms>Conditions d'utilisation</terms>.",
+        "termsLink": "Conditions d'utilisation"
+    },
+    "FAQ": {
+        "title": "Questions Fréquentes",
+        "q1": "Est-ce que c'est légal ?",
+        "a1": "Oui, nous sommes des revendeurs partenaires officiels. Tous nos codes proviennent directement des plateformes concernées (Netflix, Disney+, Spotify, etc.).",
+        "q2": "Comment vais-je recevoir mon abonnement ?",
+        "a2": "Après confirmation de votre paiement, vous recevrez vos identifiants ou votre code d'activation par email et sur votre tableau de bord client instantanément.",
+        "q3": "Quels sont les modes de paiement ?",
+        "a3": "Nous acceptions toutes les cartes bancaires marocaines et internationales via Stripe. Vous pouvez aussi payer par virement si vous contactez le support.",
+        "q4": "Que faire si j'ai un problème ?",
+        "a4": "Notre service client est disponible 7j/7 via WhatsApp pour répondre à toutes vos questions et vous aider à activer votre service."
+    },
+    "Blog": {
+        "listingTitle": "Le Blog du Streaming & IPTV au Maroc",
+        "listingSubtitle": "Découvrez nos guides experts, astuces et actualités pour profiter du meilleur du divertissement numérique au Maroc.",
+        "news": "Actualités",
+        "needSub": "Besoin d'un abonnement ?",
+        "exploreOffers": "Explorez nos offres certifiées et commencez à streamer dès aujourd'hui."
+    },
+    "Categories": {
+        "1": "Streaming",
+        "2": "IPTV",
+        "3": "VPN",
+        "4": "Cartes Cadeaux",
+        "5": "Packs",
+        "6": "Professionnel"
+    },
+    "Products": {
+        "netflix-premium": {
+            "description": "Streaming 4K Ultra HD illimité. Idéal pour la France, Belgique, Suisse et le Maghreb. Accès officiel garanti sans interruption sur 4 écrans."
+        },
+        "nordvpn": {
+            "description": "Sécurité maximale pour l'Europe et le Moyen-Orient. Contournez les restrictions et protégez votre vie privée avec le VPN le plus rapide du marché."
+        },
+        "disney-plus": {
+            "description": "Marvel, Star Wars et Pixar en 4K. Solution officielle pour les familles en Europe et dans la région MENA. Téléchargements illimités."
+        },
+        "linkedin-business": {
+            "description": "Booster votre carrière internationale de Paris à Dubaï. Accédez à des insights exclusifs et développez votre réseau professionnel."
+        },
+        "linkedin-career": {
+            "description": "Trouvez votre prochain emploi en Europe ou au Moyen-Orient. Mise en avant auprès des recruteurs et accès à LinkedIn Learning."
+        },
+        "iptv-platinum": {
+            "description": "Serveur Premium n°1 en Europe et Moyen-Orient. 15 000+ chaînes (Bein, Canal+, SSC) et VOD 4K. Stabilité 100% garantie."
+        },
+        "iptv-gold": {
+            "description": "Le meilleur rapport qualité/prix pour le Maghreb et l'Europe. Accès fluide aux sports et cinéma internationaux sur tous vos appareils."
+        }
+    }
+}

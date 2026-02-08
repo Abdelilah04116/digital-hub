@@ -1,0 +1,179 @@
+{
+    "Common": {
+        "title": "Digital Subs",
+        "home": "Home",
+        "plans": "Plans",
+        "support": "Support",
+        "blog": "Blog",
+        "contact": "Contact",
+        "login": "Login",
+        "logout": "Logout",
+        "whatsapp": "WhatsApp Support",
+        "seeOffers": "See Offers",
+        "from": "From",
+        "order": "Order Now",
+        "buy": "Buy",
+        "readMore": "Read More",
+        "loading": "Loading..."
+    },
+    "Hero": {
+        "title": "Official Digital Subscriptions in Morocco",
+        "subtitle": "Access your favorite streaming, IPTV, VPN, and gift cards 100% legally and securely.",
+        "cta": "Explore Our Plans",
+        "badge": "100% Legal & Secure in Morocco",
+        "speed": "Fast Delivery",
+        "speedDesc": "Activation in less than 15 min",
+        "payment": "100% Secure Payment",
+        "paymentDesc": "Via Secure Stripe & CMI",
+        "support": "Customer Support",
+        "supportDesc": "Available 7/7 on WhatsApp"
+    },
+    "Features": {
+        "heading": "Why Choose {title}?",
+        "subheading": "We redefine digital entertainment access in Morocco with premium and secure service.",
+        "speed": "Instant Delivery",
+        "speedDesc": "Receive your activation codes via email immediately after payment.",
+        "secure": "Secure Payment",
+        "secureDesc": "We use Stripe to ensure the security of all your transactions.",
+        "support": "7/7 Support",
+        "supportDesc": "Our team is available on WhatsApp to help you at any time.",
+        "multi": "Multi-device",
+        "multiDesc": "Use your subscriptions on any device: Smart TV, Mobile, Tablet.",
+        "zero": "Zero Interruptions",
+        "zeroDesc": "We only offer official subscriptions guaranteed without any cuts.",
+        "local": "Local Payment",
+        "localDesc": "Moroccan bank cards (CMI) accepted via Stripe Checkout.",
+        "statsClients": "Happy Clients",
+        "statsSubs": "Subscriptions Delivered",
+        "statsCountries": "Countries Covered",
+        "statsSupport": "Support Hours"
+    },
+    "Plans": {
+        "title": "All Our Offers",
+        "subtitle": "Choose the subscription that suits you from our official catalog.",
+        "all": "All"
+    },
+    "Trending": {
+        "title": "Trending Offers 🔥",
+        "subtitle": "The most popular subscriptions this week. Enjoy our preferential rates.",
+        "bestSeller": "Best Seller",
+        "stable": "100% stable activation",
+        "priority": "Priority support",
+        "guarantee": "Satisfaction guarantee"
+    },
+    "Product": {
+        "official": "100% Official Guarantee",
+        "instant": "Instant Delivery",
+        "chooseDuration": "Choose Duration",
+        "proceed": "Proceed to Checkout",
+        "buyWhatsApp": "Buy via WhatsApp",
+        "included": "Included in your offer:",
+        "guaranteedAccess": "Official access guaranteed",
+        "techSupport": "7/7 Technical support",
+        "clearInstructions": "Clear activation instructions",
+        "secureStripe": "Secure payment by Stripe",
+        "checkoutError": "Error creating payment session.",
+        "errorOccurred": "An error occurred.",
+        "waGreeting": "Hello, I want to buy"
+    },
+    "Footer": {
+        "description": "Your trusted partner for all your official digital subscription needs in Morocco. Security, speed, and dedicated support.",
+        "rights": "All rights reserved.",
+        "products": "Products",
+        "streaming": "Streaming Subscriptions",
+        "iptv": "Premium IPTV",
+        "vpn": "VPN & Security",
+        "giftCards": "Gift Cards",
+        "legal": "Legal",
+        "terms": "Terms of Sale",
+        "privacy": "Privacy Policy",
+        "refund": "Refund Policy",
+        "help": "Help & FAQ",
+        "track": "Track My Order"
+    },
+    "Support": {
+        "title": "Support Center",
+        "subtitle": "Got a question? Activation issue? Our team is ready to help 7/7.",
+        "whatsappResponse": "Instant response",
+        "contactUs": "Contact Us",
+        "availability": "Availability",
+        "monSun": "Monday - Sunday",
+        "emailResponse": "24h Response time",
+        "openTicket": "Open a ticket",
+        "fullName": "Full Name",
+        "email": "Email",
+        "subject": "Subject",
+        "activationProblem": "Activation Problem",
+        "preSales": "Pre-sales Question",
+        "paymentNotReceived": "Payment Not Received",
+        "other": "Other",
+        "message": "Message",
+        "placeholderMessage": "How can we help you?",
+        "send": "Send My Request",
+        "quickHelp": "Quick Help",
+        "helpSubtitle": "Check our guides to solve your problems in seconds.",
+        "activationGuide": "How do I activate my code?",
+        "changePlan": "Can I change my plan?",
+        "guarantees": "What are the guarantees?",
+        "lostPassword": "Lost password"
+    },
+    "Login": {
+        "title": "Customer Area",
+        "subtitle": "Sign in to access your subscriptions and invoices.",
+        "google": "Continue with Google",
+        "email": "Email",
+        "orEmail": "Or via email",
+        "magicLink": "Send Magic Link",
+        "termsAccept": "By signing in, you agree to our <terms>Terms of Service</terms>.",
+        "termsLink": "Terms of Service"
+    },
+    "FAQ": {
+        "title": "Frequently Asked Questions",
+        "q1": "Is it legal?",
+        "a1": "Yes, we are official partner resellers. All our codes come directly from the platforms (Netflix, Disney+, Spotify, etc.).",
+        "q2": "How will I receive my subscription?",
+        "a2": "After confirming your payment, you will receive your credentials or activation code via email and on your client dashboard instantly.",
+        "q3": "What are the payment methods?",
+        "a3": "We accept all Moroccan and international bank cards via Stripe. You can also pay by transfer by contacting support.",
+        "q4": "What if I have an issue?",
+        "a4": "Our customer service is available 7/7 via WhatsApp to answer all your questions and help you activate your service."
+    },
+    "Blog": {
+        "listingTitle": "Streaming & IPTV Blog in Morocco",
+        "listingSubtitle": "Discover our expert guides, tips, and news to enjoy the best of digital entertainment in Morocco.",
+        "news": "News",
+        "needSub": "Need a subscription?",
+        "exploreOffers": "Explore our certified offers and start streaming today."
+    },
+    "Categories": {
+        "1": "Streaming",
+        "2": "IPTV",
+        "3": "VPN",
+        "4": "Gift Cards",
+        "5": "Bundles",
+        "6": "Professional"
+    },
+    "Products": {
+        "netflix-premium": {
+            "description": "Unlimited 4K Ultra HD streaming. Perfect for Europe, UK, and MENA region. Official access guaranteed on 4 screens without interruption."
+        },
+        "nordvpn": {
+            "description": "Maximum security for Europe and the Middle East. Bypass restrictions and protect your privacy with the fastest VPN on the market."
+        },
+        "disney-plus": {
+            "description": "Marvel, Star Wars, and Pixar in 4K. Official solution for families in Europe and the GCC. Unlimited downloads and safe profiles."
+        },
+        "linkedin-business": {
+            "description": "Boost your international career from London to Dubai. Access exclusive insights and grow your global professional network."
+        },
+        "linkedin-career": {
+            "description": "Find your next job in Europe or the Middle East. Get featured to recruiters and access LinkedIn Learning internationally."
+        },
+        "iptv-platinum": {
+            "description": "#1 Premium Server in Europe and Middle East. 15,000+ channels (Sports, Cinema) & 4K VOD. 100% guaranteed stability."
+        },
+        "iptv-gold": {
+            "description": "Best value for money for Europe and MENA region. Smooth access to international sports and movies on all your devices."
+        }
+    }
+}
