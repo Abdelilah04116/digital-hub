@@ -24,7 +24,7 @@ export async function POST(req: Request) {
             success_url: successUrl,
             cancel_url: cancelUrl,
             metadata: {
-                userId: session.user.id,
+                userId: (session.user as any).id,
                 planId: planId,
             },
             customer_email: session.user.email!,
