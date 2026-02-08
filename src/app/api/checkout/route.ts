@@ -6,7 +6,7 @@ import { authOptions } from "@/lib/auth-options";
 export async function POST(req: Request) {
     try {
         const session = await getServerSession(authOptions);
-        if (!session) {
+        if (!session || !session.user) {
             return new NextResponse("Unauthorized", { status: 401 });
         }
 
